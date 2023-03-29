@@ -10,15 +10,12 @@ For this process, the dataset was first cleaned to only include active cryptos t
 
 K-means Visual result for 4 clusters
 
-[K-means Visual result for 4 clusters](!https://github.com/UnBearAble1/Cryptocurrencies/blob/main/Module%2019%20Elbow%20Curve.png)
-
+![K-means Visual result for 4 clusters](https://github.com/UnBearAble1/Cryptocurrencies/blob/main/Module%2019%20Elbow%20Curve.png)
 
 Cluster scatter plot 
 
-[Cluster scatter plot](!https://github.com/UnBearAble1/Cryptocurrencies/blob/main/Module%2019%20Scatter.png)
-
+![Cluster scatter plot](https://github.com/UnBearAble1/Cryptocurrencies/blob/main/Module%2019%20Scatter.png)
 
 ## Analysis
 
 Based on the review, the firm can offer reasonably offer up to four clusters for customers to invest in, though further reviews should be done as one of the clusters is very small and may not diversify enough to be a sound investment.
-
